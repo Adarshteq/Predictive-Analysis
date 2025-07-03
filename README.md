@@ -1,18 +1,4 @@
-# Diabetes Prediction Using Machine Learning
-
-## Project Details
-
-- **Company**: Codtech IT Solutions  
-
-- **Name**: Addanki Adarsh  
-
-- **Intern ID**: CT06DN221  
-
-- **Domain**: Data Analytics  
-
-- **Duration**: 6 weeks  
-
-- **Mentor**: Neela Santhosh Kumar  
+## Diabetes Prediction Using Machine Learning
 
 ## Project Description
 

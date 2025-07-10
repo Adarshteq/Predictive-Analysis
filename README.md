@@ -8,9 +8,6 @@ Diabetes is a chronic disease that affects millions worldwide, and early detecti
 
 The goal of this project is to create an accurate predictive model that can assist healthcare professionals in identifying at-risk patients.
 
-![image](https://github.com/user-attachments/assets/d881c706-39a4-4331-bfec-56b43f6fd579)
-
-
 ### Dataset Overview
 
 The dataset used in this project contains health information from 768 patients, with 8 clinical features and a binary outcome variable indicating the presence (1) or absence (0) of 

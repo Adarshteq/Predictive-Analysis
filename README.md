@@ -123,4 +123,4 @@ This predictive model can provide significant value to healthcare providers by:
 
 ### Acknowledgments
 
-Special thanks to Codtech IT Solutions for providing this internship opportunity and to my mentor Neela Santhosh Kumar for guidance throughout this project. This experience has been invaluable in developing my data science skills and understanding real-world applications of machine learning in healthcare.
+This experience has been invaluable in developing my data science skills and understanding real-world applications of machine learning in healthcare.
